@@ -1,0 +1,13 @@
+*{
+  box-sizing: border-box;
+}
+
+.logo{
+  font-size: 48px;
+  color: blue;
+}
+
+li{
+  text-decoration: none;
+  list-style: none;
+}
