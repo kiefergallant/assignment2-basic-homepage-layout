@@ -33,14 +33,12 @@ nav {
 
 .logo-wrapper{
   display:flex;
-  justify-content: center;
-
-
+  justify-content: space-around;
   font-size: 5.0em;
   align-items: center;
   text-align: center;
-
   vertical-align: middle;
+  padding-top:90px;
 }
 
 
@@ -108,10 +106,4 @@ a{
   height:300px;
   background: #698875;
   border-radius: 8px;
-}
-
-@media only screen and (max-width: 715px){
-  .footer{
-    height:600px;
-  }
 }
